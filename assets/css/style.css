@@ -814,6 +814,7 @@ section {
   justify-content: center;
   transition: ease-in-out 0.3s;
   position: relative;
+  color: #0563bb;
 }
 
 .services .icon-box .icon i {
